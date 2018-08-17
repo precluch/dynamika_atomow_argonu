@@ -1,5 +1,5 @@
 # dynamika_atomow_argonu
-C++, ROOT
+C++, GLUT
 
 Symulacje kryształu argonu metodą dynamiki molekularnej
 
